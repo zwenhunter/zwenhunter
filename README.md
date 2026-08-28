@@ -1,4 +1,4 @@
-![👋 Hi, I'm Zwenhunter](https://i.pinimg.com/736x/88/53/30/8853302fae087600d8362b5e4dd9e4c3.jpg))
+![👋 Hi, I'm Zwenhunter](https://i.pinimg.com/originals/0f/1b/a3/0f1ba3323de4711a314119a80205c0bf.gif))
 
 ![Profile views](https://komarev.com/ghpvc/?username=zwenhunter&label=Profile%20views&color=0e75b6&style=flat)
 
