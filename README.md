@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Biz Ne Yaparız?
+###  Biz Ne Yaparız?
 
 - **DDOS operasyonları** düzenleriz  
 - **Sitelere vururuz** abi makarayız  
@@ -26,4 +26,4 @@
 
 ---
 
-### PES ETME 
+### 1 = 0
