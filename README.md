@@ -1,26 +1,85 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20zwen%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=TypeScript%20babasi;Always%20building%20something%20new" alt="Typing SVG" /></p>
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-<img src="https://img.shields.io/badge/Discord-102216?style=for-the-badge&logo=discord&logoColor=11d452" alt="Discord"/>
-</p>
+<div align="center">
+  <img
+    src="https://w.wallhaven.cc/full/85/wallhaven-852k6j.jpg"
+    width="760"
+    alt="Anime Banner"
+    style="border-radius:12px;"
+  />
+</div>
 
-<h3 align="center">✨ My Toolbox ✨</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<!-- ================= PROFILE ================= -->
+
+<table align="center" width="760">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img
+  src="https://count.getloli.com/@:zwenhunter?theme=booru-smtg&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"
+  alt="Profile views"
+/>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<h3>𝐙𝐖𝐄𝐍𝐇𝐔𝐍𝐓𝐄𝐑 ᶻ 𝗓 𐰁</h3>
+
+<p>Language and tools ⤸</p>
+
+<img src="https://skillicons.dev/icons?i=vscode,html,css,lua,gimp&theme=dark" height="40" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ================= LANGUAGES ================= -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div>
+
+<br>
+
+<!-- ================= DATE ================= -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LAST_UPDATED-11.11.2026-efadc9?style=flat-square" />
+
+</div>
+
+<br>
+
+<!-- ================= ANIME GIF ================= -->
+
+<div align="center">
+
+<img
+  src="https://gifdb.com/images/branded/high/soft-aesthetic-anime-train-station-hd-rdxqewq5b8wxnygu.gif"
+  width="600"
+  alt="Anime Train GIF"
+/>
+
+</div>
+
+<!-- ================= END ================= -->
