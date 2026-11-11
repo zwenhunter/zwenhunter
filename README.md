@@ -28,7 +28,7 @@
 
 <h3>𝐙𝐖𝐄𝐍𝐇𝐔𝐍𝐓𝐄𝐑 ᶻ 𝗓 𐰁</h3>
 
-<p>Language and tools ⤸</p>
+<p>tomboy kızlar<3 ⤸</p>
 
 </td>
 </tr>
