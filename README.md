@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://w.wallhaven.cc/full/85/wallhaven-852k6j.jpg"
+    src="[https://w.wallhaven.cc/full/85/wallhaven-852k6j.jpg](https://i.pinimg.com/1200x/dc/26/58/dc265872d0f5259335c7e567e90618b1.jpg)"
     width="760"
     alt="Anime Banner"
     style="border-radius:12px;"
