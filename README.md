@@ -1,29 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20zwen%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=11D452&center=true&vCenter=true&width=480&lines=TypeScript%20babasi;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZwenhunterN&color=ffd3d9&style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord-102216?style=for-the-badge&logo=discord&logoColor=11d452" alt="Discord"/>
 </p>
 
-<br>
-
-<p>
-  <img align="left" src="assets/profile_pic.jpg" width="240" />
-
-```text
-Zwenhunter@github
--------------------------
-🎓 Software Developer
-📜 Passionate about programming
-🌱 Currently working on interesting projects
-💫 Languages: JavaScript, Python, C++
-✏️ Always learning something new
-🎵 Check my profile below <3
-```
-</p>
-
-<br clear="left">
-
-<h2 align="center">🇭‌🇼‌ 🇷‌🇪‌🇵‌🇴‌🇸‌ 🇦‌🇹‌ 🇳‌🇹‌🇺‌</h2>
-
+<h3 align="center">✨ My Toolbox ✨</h3>
 <p align="center">
-  <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
