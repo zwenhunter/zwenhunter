@@ -30,8 +30,6 @@
 
 <p>Language and tools ⤸</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,lua,gimp&theme=dark" height="40" />
-
 </td>
 </tr>
 </table>
